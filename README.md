@@ -1,0 +1,1 @@
+This a selection of certain files I created to show a work example of my work with Ruby On Rails and Javascript/React. This is just pulled code organized by where it would have been in the original repo. 
